@@ -1,13 +1,6 @@
-# README
-## This is the README for your extension "pache-dark-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# THE BEST DARK THEME ON THE MARKET
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+>> I've really enjoyed the process of creating this amazing theme, I hope you'll enjoyed it, and if you like 
+>> give me some feedback to improve this project. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+# :)
